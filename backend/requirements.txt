@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+firebase-admin
+geopy
+psycopg2-binary
+pymongo
+requests
